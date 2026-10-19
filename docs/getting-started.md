@@ -9,7 +9,7 @@ npm install minecraft-use
 Or clone and build from source:
 
 ```bash
-git clone https://github.com/kyssta-exe/minecraft-use.git
+git clone https://github.com/okyssta/minecraft-use.git
 cd minecraft-use
 npm install
 ```

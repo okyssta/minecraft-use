@@ -29,7 +29,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kyssta-exe/minecraft-use.git"
+    "url": "https://github.com/okyssta/minecraft-use.git"
   },
   "dependencies": {
     "better-sqlite3": "^11.0.0",

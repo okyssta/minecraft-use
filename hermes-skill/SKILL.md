@@ -95,4 +95,4 @@ Connect to `ws://localhost:8088` for real-time events.
 
 ## Full docs
 
-https://github.com/kyssta-exe/minecraft-use
+https://github.com/okyssta/minecraft-use

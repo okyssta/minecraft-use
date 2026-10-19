@@ -4,7 +4,7 @@
 
 **All-in-one AI agent for Minecraft — server setup, plugin testing, gameplay, building, mining, everything**
 
-[![Version](https://img.shields.io/badge/version-0.0.1--beta.1-blue)](https://github.com/kyssta-exe/minecraft-use)
+[![Version](https://img.shields.io/badge/version-0.0.1--beta.1-blue)](https://github.com/okyssta/minecraft-use)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![Node](https://img.shields.io/badge/node-%3E%3D18-brightgreen)](https://nodejs.org)
 [![Minecraft](https://img.shields.io/badge/minecraft-1.8--1.21+-orange)](https://minecraft.net)
@@ -192,6 +192,6 @@ MIT — see [LICENSE](LICENSE)
 
 <div align="center">
 
-**Built by [Kyssta](https://github.com/kyssta-exe)**
+**Built by [Kyssta](https://github.com/okyssta)**
 
 </div>
